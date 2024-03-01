@@ -1,6 +1,6 @@
- ![firefile.jpg]
+![firefile.jpg](firefile.jpg)
 
- ### Quick Overview:
+### Quick Overview:
  Convert Python to Mojo effortlessly with our tool. It scans Python files, refactors to Mojo syntax, and optimizes for Mojo—all automatically. Aimed at easing developers' transition to Mojo.
 
  ### Key Features:
