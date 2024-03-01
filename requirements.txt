@@ -1,0 +1,5 @@
+os
+logging
+argparse
+subprocess
+open-interpreter
